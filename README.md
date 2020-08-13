@@ -24,3 +24,4 @@ predictions is the dataset of final predictions indexed by passengerId
 The project was done by using LogisticRegression with python. Data analysis and data wrangling were made by pandas,numpy,matplotlib,seaborn.
 As the project was done in Jupyter notebook 'Titanic_LogisticRegression.ipynb' is the efficient and easily understandable file.
 'Titanic_LogisticRegression.py' is file which is converted from 'Titanic_LogisticRegression.ipynb'.
+git fork workflow checking
